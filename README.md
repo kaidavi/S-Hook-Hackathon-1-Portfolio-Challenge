@@ -59,4 +59,31 @@ To run this project locally, follow these steps:
 
    Open the index.html file to run the project successfully and locally.
 
+Alternatively you can download the zip file from github. Ectract the downloaded zip file and run the program by opening the index.html file.
+
+---
+
 ## Usage
+
+Explore the different sections of the website to learn more about my proffesional background, projects, skills and how to get in touch with me.
+
+---
+
+## Contributing
+
+If you would like to contribute to this project, feel free to fork the respiratory and submit a pull request. Any contributions that help improve the website are welcome!
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the "license" file for more details.
+
+---
+
+## Contact
+
+Feel free to reach out to me through the contact form on the website and the social media links or via email dkai4514@gmail.com
+
+---
+
