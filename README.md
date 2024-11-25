@@ -33,7 +33,30 @@ To run this project locally, follow these steps:
 
 1. Navigate to the respiratory
 
- Open this link (
----
+   Open this link: https://github.com/kaidavi/S-Hook-Hackathon-1-Portfolio-Challenge to navigate my respiratory.
+
+2. Copy the respiratory URL
+
+   Click on the green "code" button located on the respiratory page. Under the "Clone" section, you'll see a URL. Make sure "HTTPS" is selected. Click the clipboard icon to copy the URL.
+
+3. Open a Terminal or Command Prompt
+
+   On your computer, open a terminal or command prompt.
+
+4. Navigate to the desired Directory
+
+   Use the "cd" command to navigate to the directory where you want to clone the respiratory.
+
+5. Clone the Respiratory
+
+   Use the "git clone" command followed by the URL you copied from github. (git clone https://github.com/kaidavi/S-Hook-Hackathon-1-Portfolio-Challenge)
+
+6. Access the Cloned Respiratory
+
+   After cloning, navigate into the respiratory directory.
+
+7. Open the index.html file
+
+   Open the index.html file to run the project successfully and locally.
 
 ## Usage
