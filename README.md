@@ -29,8 +29,11 @@ Welcome to my Portfolio Website! This project showcases my skills, projects and 
 
 ## Installation
 
-This project can be run successfuly on the local server you are using. You can also run it by opening the index.html file in your browser.
+To run this project locally, follow these steps:
 
+1. Navigate to the respiratory
+
+ Open this link (
 ---
 
 ## Usage
