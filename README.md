@@ -85,5 +85,7 @@ This project is licensed under the MIT License. See the "license" file for more 
 
 Feel free to reach out to me through the contact form on the website and the social media links or via email dkai4514@gmail.com
 
+Visit my website portfolio at https://kaidavi.github.io/S-Hook-Hackathon-1-Portfolio-Challenge-David-Kai-PLP_Group-19/
+
 ---
 
